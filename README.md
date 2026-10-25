@@ -1,3 +1,3 @@
-Hey there fellow stalkers!
+Hey, do you know me?!
 
-![](https://komarev.com/ghpvc/?username=your-github-anirudhf&label=Stalkers)
+![](https://komarev.com/ghpvc/?username=your-github-anirudhf&label=Visitors)
